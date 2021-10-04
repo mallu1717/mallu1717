@@ -1,0 +1,59 @@
+﻿Blessian D Jutike
+Student
+* Details
+* Education
+* Technical Skills
+* Project
+Details about me
+
+
+Name: Mallikarjun salgar
+Age: 23
+Gender: male
+Email: mallikarjunsalgar5@gmail.com
+Phone_no: 8050527910
+Education
+
+
+
+
+
+
+Cource
+	Name of the institude
+	University
+	Percentage
+	SSCL
+	maharshi vidya mandir gulbarga
+	KSEEB
+	69
+	PUC
+	Doddappa Appa Residential PU college kalburagi
+	DTE
+	66
+	Btech
+	Central University Of Karnataka Kalburagi
+	CUK
+	70.1
+	
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+* C
+* Matlab
+*Autocad
+
+Project
+
+
+Role: Team member
+Title: •	I have a B-tech project on Fault analysis and torque ripple minimization of switched reluctance motor using different controllers.
